@@ -1,0 +1,7 @@
+#+TITLE: Selection Sort
+#+AUTHOR: Mubarek Seid Juhar
+#+EMAIL: mubareksd@gmail.com
+#+DATE: 2023-04-02
+#+DESCRIPTION: Selection Sort
+#+KEYWORDS: Sorting, Selection Sort
+#+LANGUAGE: en
