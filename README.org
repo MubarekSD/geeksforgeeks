@@ -5,3 +5,7 @@
 #+DESCRIPTION: GeeksForGeeks
 #+KEYWORDS: geeksforgeeks
 #+LANGUAGE: en
+
+| Problem                   | Solution |
+|---------------------------+----------|
+| [[https://practice.geeksforgeeks.org/problems/sum-of-digits-of-a-number/0][Sum of digits of a number]] | [[https://github.com/mubareksd/geeksforgeeks/blob/main/selection-sort/selection-sort.py][Python]]   |
